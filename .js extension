@@ -1,0 +1,4 @@
+
+document.getElementById("myButtonId").addEventListener("click", function() {
+  alert("Button clicked!");
+});
